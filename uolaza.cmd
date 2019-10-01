@@ -1,4 +1,3 @@
-fthhgcjgfyhdt
-gf
-hfghjfyjygfhj
-tgfytfhjufyj
+ipconfig
+cls
+pause
